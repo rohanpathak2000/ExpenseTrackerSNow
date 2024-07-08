@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1081693_expens_0.user" name="x_1081693_expens_0.user">09618e5f47470a50b3a82458c26d43ad</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 19:21:38</sys_created_on>
+        <sys_id>c5618e5f47470a50b3a82458c26d43ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>09618e5f47470a50b3a82458c26d43ad</sys_name>
+        <sys_package display_value="Expense Tracker" source="x_1081693_expens_0">81618e5f47470a50b3a82458c26d437a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Tracker">81618e5f47470a50b3a82458c26d437a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c5618e5f47470a50b3a82458c26d43ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 19:21:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
